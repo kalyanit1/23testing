@@ -21,5 +21,8 @@ public void m9()
 		System.out.println("this is m9 method")
 	}
 
-	
+	public void m10()
+	{
+		System.out.println("this is m10 method")
+	}
 }
