@@ -6,5 +6,8 @@ public class demo_A {
 		System.out.println("hello");
 
 	}
-
+public void m1()
+{
+System.out.println("this is m1 method");	
+}
 }
