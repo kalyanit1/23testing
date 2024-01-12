@@ -24,4 +24,13 @@ public void m4()
 {
 System.out.println("hello1");	
 }
+
+public void m5()
+{
+System.out.println("hello2");	
+}
+
+
+
+	
 }
