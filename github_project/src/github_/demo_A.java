@@ -20,5 +20,8 @@ public void m3()
 {
 System.out.println("hello");	
 }
-
+public void m4()
+{
+System.out.println("hello1");	
+}
 }
